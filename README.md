@@ -3,16 +3,7 @@
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@Amit Kumar](https://twitter.com/amit_aaryan_91) for technical updates.
 
 ---
-<div align="center">
-    <p>
-        <a href="https://youtu.be/-jeoyDJDsSM">
-            25 Angular interview questions with answers video.
-            <div>
-                <img src="https://img.youtube.com/vi/-jeoyDJDsSM/0.jpg" width="150" height="100" alt="Angular">
-            </div>
-        </a>
-    </p>
-</div>
+
 
 ---
 
